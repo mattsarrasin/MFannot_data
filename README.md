@@ -27,6 +27,7 @@ This repository contains all the data needed by MFannot to run. That's includes 
 In order to run MFannot you should to setup the following environment variable:
 
 - `EGC` to point to `MFannot_data/EGC`.
+- `MFANNOT_HOME` to point to the installation path.
 - `MFANNOT_EXT_CFG_PATH` to point to `MFannot_data/config`.
 - `MFANNOT_MOD_PATH` to point to `MFannot_data/models`.
 - `ERPIN_MOD_PATH` to point to `MFannot_data/models/Erpin_models`.
